@@ -2,7 +2,7 @@
 title: "Internetový manifest"
 subtitle: "Jak funguje žurnalistika dnes. Sedmnáct prohlášení."
 lang: "cs-CZ"
-canonical: "https://www.internet-manifest.cz/"
+description: Internetový manifest je sedmnáct prohlášení k žurnalistice na internetu z roku 2009.
 ---
 
 # Internetový manifest
