@@ -176,7 +176,7 @@ Web představuje prostředí společenské směny na vyšší úrovni, než byla
 [Martin Kopta]: http://martinkopta.cz/ "Martin Kopta"
 
 <style>
-	.mardown-body { font-family: Georgia, "Times New Roman", Times, serif; }
-	.mardown-body h2 a[href] { font-style: italic; }
-	.mardown-body hr { height: 1px; }
+	.markdown-body { font-family: Georgia, "Times New Roman", Times, serif; }
+	.markdown-body h2 a[href] { font-style: italic; }
+	.markdown-body hr { height: 1px; }
 </style>
