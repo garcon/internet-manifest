@@ -1,4 +1,13 @@
+---
+title: "Internetový manifest"
+subtitle: "Jak funguje žurnalistika dnes. Sedmnáct prohlášení."
+lang: "cs-CZ"
+canonical: "https://www.internet-manifest.cz/"
+---
+
 # Internetový manifest
+
+Jak funguje žurnalistika dnes. Sedmnáct prohlášení.
 
 <small><small>[Deutsche Fassung] · [English Version] · [Version française] · [Versión en español] · [Versione in italiano] · [Versão em português] · [Česká verze] · [Srpsko-Hrvatski] · [Türk Versiyon] · [Ελληνική έκδοση] · [Русская версия] · [Versiunea in limba romana] · [日本語版] · [한국어 버젼] · [ฉบับภาษาไทย] | | [النسخة العربية 1] · [النسخة العربية 2] · [فارسی]</small></small>
 
@@ -165,3 +174,9 @@ Web představuje prostředí společenské směny na vyšší úrovni, než byla
 [Peter Stawowy]: http://www.xing.com/profile/Peter_Stawowy "Peter Stawowy"
 [Fiete Stegers]: http://www.netzjournalismus.de/ "Fiete Stegers"
 [Martin Kopta]: http://martinkopta.cz/ "Martin Kopta"
+
+<style>
+	h2 a[href] { font-style: italic; }
+	body { font-family: Georgia, "Times New Roman", Times, serif; }
+	hr { border: 0; height: 1px; background: rgb(234, 236, 239); }
+</style>
