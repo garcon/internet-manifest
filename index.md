@@ -177,6 +177,7 @@ Web představuje prostředí společenské směny na vyšší úrovni, než byla
 
 <style>
 	.markdown-body { font-family: Georgia, "Times New Roman", Times, serif; }
+	.markdown-body h1>a[href] { visibility: hidden;  }
 	.markdown-body h2 a[href] { font-style: italic; }
 	.markdown-body hr { height: 1px; }
 </style>
