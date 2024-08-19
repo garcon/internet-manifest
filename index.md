@@ -3,6 +3,7 @@ title: "Internetový manifest"
 subtitle: "Jak funguje žurnalistika dnes. Sedmnáct prohlášení."
 lang: "cs-CZ"
 description: Internetový manifest je sedmnáct prohlášení k žurnalistice na internetu z roku 2009.
+url: https://www.internet-manifest.cz/
 ---
 
 # Internetový manifest
@@ -14,42 +15,42 @@ Jak funguje žurnalistika dnes. Sedmnáct prohlášení.
 <a name="art-1" id="art-1"></a>
 ## [1.] Internet je jiný.
 
-Internet vytváří jiné publikum, jiné podmínky pro podnikání a jiné kulturní možnosti. Média musí své pracovní postupy přizpůsobit současné technologické realitě, ne ji popírat či s ní bojovat. Je povinností médií tvořit žurnalistiku v co nejlepší podobě založenou na dostupné technologii – to zahrnuje nové žurnalistické produkty i postupy.
+Internet vytváří odlišné veřejné sféry, jiné obchodní podmínky a jiné kulturní dovednosti. Média musí své pracovní postupy přizpůsobit současné technologické realitě místo toho, aby ji ignorovala nebo proti ní bojovala. Je jejich povinností vytvářet co nejlepší formu žurnalistiky na základě dostupné technologie, což zahrnuje nové žurnalistické produkty a metody.
 
 <a name="art-2" id="art-2"></a>
 ## [2.] Internet je mediální impérium do kapsy.
 
-Web přetváří dosavadní mediální systém: překonává stávající omezení a oligopol. Publikování a šíření mediálního obsahu již není svázáno s vysokými investicemi. Novináři přišli o možnost rozhodovat, které informace se dostanou k lidem – naštěstí. Zůstává jen kvalita, která odlišuje žurnalistiku od ostatních podob publikování.
+Web přetváří dosavadní mediální struktury tím, že překračuje jejich dosavadní hranice a oligopoly. Publikování a šíření mediálního obsahu už není vázáno na vysoké investice. Novináři přišli o možnost rozhodovat, které informace se dostanou k lidem – naštěstí. Zůstává jen kvalita, která odlišuje žurnalistiku od prostého publikování.
 
 <a name="art-3" id="art-3"></a>
 ## [3.] Internet je společnost je internet.
 
-Pro většinu obyvatel západního světa se staly služby jako sociální sítě, Wikipedie nebo Youtube běžnou součástí každodenního života. Jsou stejně samozřejmé jako telefon nebo televize. Mediální domy, pokud chtějí přežít, musí porozumět světu, v němž uživatelé žijí, a převzít jejich formy komunikace. K tomu patří i základní funkce sociální interakce: naslouchání a odpovídání, známé také jako dialog.
+Webové platformy jako sociální sítě, Wikipedie nebo YouTube se staly součástí každodenního života většiny lidí v západním světě. Jsou stejně dostupné jako telefon nebo televize. Pokud chtějí média přežít, musí porozumět světu dnešních uživatelů a přijmout jejich formy komunikace. To zahrnuje základní formy sociální interakce: naslouchání a odpovídání, známé také jako dialog.
 
 <a name="art-4" id="art-4"></a>
 ## [4.] Svoboda internetu je nedotknutelná.
 
-Otevřená architektura je v pojetí informační technologie základním prvkem internetu pro digitálně komunikující společnost, a proto také pro žurnalistiku. Na tom se nesmí nic změnit ani z důvodů ochrany zvláštních obchodních nebo politických zájmů, které se často skrývají za záminkou veřejného zájmu. Bez ohledu na způsob provedení je omezení přístupu k internetu ohrožením volného toku informací, a tím i našeho základního práva na přístup k informacím.
+Otevřená architektura internetu je základním IT zákonem společnosti, která komunikuje digitálně, a tedy i pro žurnalistiku. Nesmí být měněna ve prospěch ochrany zvláštních obchodních nebo politických zájmů, které se často skrývají za záminkou veřejného zájmu. Omezení přístupu k internetu ohrožuje volný tok informací a poškozuje naše základní právo na přístup k informacím.
 
 <a name="art-5" id="art-5"></a>
 ## [5.] Internet je vítězstvím informací.
 
-Mediální domy, výzkumná centra, veřejné instituce a jiné organizace shromáždily a uspořádaly navzdory slabé technologii informace z celého světa. Nyní si každý občan může nastavit vlastní filtr na zprávy, zatímco vyhledavače nabízejí nebývalé množství informací. Jednotlivci se nyní mohou informovat lépe než kdykoli předtím.
+Dříve média, výzkumná centra, veřejné instituce a další organizace shromažďovaly a klasifikovaly informace z celého světa. Dnes si každý občan může nastavit vlastní filtr zpráv, zatímco vyhledávače zpřístupňují bohatství informací v dosud nevídaném rozsahu. Jednotlivci se nyní mohou informovat lépe než kdykoliv předtím.
 
 <a name="art-6" id="art-6"></a>
 ## [6.] Internet mění zlepšuje žurnalistiku.
 
-Díky internetu může žurnalistika svou úlohu vzdělávat společnost plnit novými způsoby. To znamená, že i prezentování informací je stále se měnící, kontinuální proces; konec neměnnosti tištěných médií je přínosem. Přežití v novém světě informací vyžaduje nové nadšení, nové novinářské nápady a pocit uspokojení z objevování nových možností.
+Díky internetu může žurnalistika plnit svou společenskou a vzdělávací roli novými způsoby. To zahrnuje prezentaci informací jako neustále se měnícího, kontinuálního procesu; ztráta neměnnosti tištěných médií je přínosem. Ti, kdo chtějí v tomto novém světě informací přežít, potřebují nový idealismus, nové novinářské nápady a radost z využívání tohoto nového potenciálu.
 
 <a name="art-7" id="art-7"></a>
-## [7.] Síť si žádá propojení.
+## [7.] Síť vyžaduje propojení.
 
-Odkazy jsou vztahy. Známe se navzájem prostřednictvím odkazů. Kdo neodkazuje, vyčleňuje se ze společenského diskurzu. To platí i pro weby tradičních médií.
+Odkazy jsou vztahy. Poznáváme se navzájem prostřednictvím odkazů. Kdo je nepoužívá, vylučuje se ze společenského diskurzu. To platí i pro weby tradičních mediálních společností.
 
 <a name="art-8" id="art-8"></a>
 ## [8.] Odkazy jsou odměnou, citace jsou okrasou.
 
-Vyhledavače a agregátory podporují kvalitní žurnalistiku: v dlouhodobém horizontu zlepšují nalezitelnost výjimečného obsahu, a tím se stávají součástí nového, propojeného publika. Zmínky formou odkazů a citace – především ty, které vznikly bez vynucení nebo uplacení citovanými – nejlépe umožňují vznik opravdové kultury propojeného společenského diskurzu. Odkazy a citace jsou bezpodmínečně hodny ochrany.
+Vyhledávače a agregátory podporují kvalitní žurnalistiku: dlouhodobě zlepšují nalezitelnost výjimečného obsahu a jsou tedy nedílnou součástí nové, propojené veřejné sféry. Odkazy a citace, včetně těch, které vznikly bez souhlasu nebo odměny pro původce, umožňují vznik opravdové kultury propojeného společenského diskurzu. Jsou bezpochyby hodny ochrany.
 
 <a name="art-9" id="art-9"></a>
 ## [9.] Internet je novým prostorem pro politický diskurz.
@@ -59,12 +60,12 @@ Demokracii prospívá sdílení a svoboda informací. Přesun politické diskuz
 <a name="art-10" id="art-10"></a>
 ## [10.] Nová svoboda tisku znamená svobodu projevu.
 
-Článek 5 německé ústavy nezakládá právo na ochranu některých povolání nebo technicky tradičních obchodních modelů. Internet stírá technologické hranice mezi amatéry a profesionály. Proto se musí privilegium svobody tisku vztahovat na každého, kdo může přispět k plnění úlohy žurnalistiky. Rozlišení kvality nevede mezi placenou a neplacenou, ale mezi dobrou a špatnou žurnalistikou.
+Článek 5 německé ústavy nezahrnuje ochranná práva pro povolání nebo tradiční obchodní modely. Internet ruší technologické hranice mezi amatéry a profesionály. Proto musí privilegium svobody tisku platit pro každého, kdo může přispět k plnění novinářských úkolů. Rozlišení kvality nevede mezi placenou a neplacenou žurnalistikou, ale mezi dobrou a špatnou žurnalistikou.
 
 <a name="art-11" id="art-11"></a>
-## [11.] Více je více – není nic jako přemíra informací.
+## [11.] Více je více – nic jako přemíra informací neexistuje.
 
-Byly doby, kdy instituce jako církev nadřazovaly moc nad osobní informovanost a varovaly před záplavou neprověřených informací, když byl vynalezen knihtisk. Na druhé straně stáli pamfletisté, encyklopedisté a novináři, kteří dokazovali, že více informací vede k větší svobodě – jak u jednotlivců, tak u společnosti jako celku. V tomto ohledu se dodnes nic nezměnilo.
+Kdysi instituce jako církev upřednostňovaly moc nad osobní informovaností a varovaly před záplavou neprověřených informací, když byl vynalezen knihtisk. Na druhé straně stáli pamfletisté, encyklopedisté a novináři, kteří dokázali, že více informací vede k větší svobodě, jak pro jednotlivce, tak pro společnost jako celek. V tomto ohledu se dodnes nic nezměnilo.
 
 <a name="art-12" id="art-12"></a>
 ## [12.] Tradice není obchodní model.
@@ -80,12 +81,12 @@ Autorské právo je klíčovým[\*] prvkem uspořádání informací na internet
 <a name="art-14" id="art-14"></a>
 ## [14.] Na internetu platí mnoho měn.
 
-Media financovaná reklamou nabízejí obsah výměnou za návštěvnost. Čas čtenářů, diváků nebo posluchačů je drahý. Tento vztah byl vždy jedním ze základních prvků financování žurnalistiky. Je třeba objevit a vyzkoušet další pro žurnalistiku přijatelné způsoby financování.
+Media financovaná reklamou nabízejí obsah výměnou za návštěvnost. Čas čtenářů, diváků nebo posluchačů je cenný. Tento vztah byl vždy jedním ze základních prvků financování žurnalistiky. Je třeba objevit a vyzkoušet další pro žurnalistiku přijatelné způsoby financování.
 
 <a name="art-15" id="art-15"></a>
 ## [15.] Co je v síti, v síti zůstane.
 
-Internet pozdvihuje žurnalistiku k nové kvalitativní úrovni. Text, zvuk a obraz online už nemusejí být pomíjivé. Zůstávají dostupné, a tím se stávají archivem soudobých dějin. Žurnalistika musí zohlednit vývoj informací, jejich interpretací a errata, tedy přiznat chyby a otevřeně je uvést na pravou míru.
+Internet pozdvihuje žurnalistiku k nové kvalitativní úrovni. Text, zvuk a obraz online už nemusejí být pomíjivé. Zůstávají dostupné, a tím se stávají archivem soudobých dějin. Žurnalistika musí zohlednit vývoj informací, jejich interpretací a chyb, tedy přiznat chyby a otevřeně je uvést na pravou míru.
 
 <a name="art-16" id="art-16"></a>
 ## [16.] Kvalita zůstává nejdůležitější vlastností.
@@ -93,9 +94,9 @@ Internet pozdvihuje žurnalistiku k nové kvalitativní úrovni. Text, zvuk a 
 Internet strhává masku zaměnitelné masové produkci. Pouze výjimeční, důvěryhodní a skvělí si zaslouží publikum dlouhodobě. Nároky uživatelů se zvyšují. Žurnalistika musí naplnit a dodržovat své často formulované principy.
 
 <a name="art-17" id="art-17"></a>
-## [17.] Všechno všem.
+## [17.] Všichni pro všechny.
 
-Web představuje prostředí společenské směny na vyšší úrovni, než byla masová média 20. století: „Generace Wikipedie“ je s to – ať už jako jednotlivci, nebo jako skupina – zvážit důvěryhodnost zdroje a v případě pochybností vysledovat zprávu k původnímu zdroji, vyhledat jej, posoudit jej a vyhodnotit. Uživatelé nebudou brát vážně novináře, kteří to opomíjejí a nejsou ochotni respektovat tyto dovednosti. A právem. Internet umožňuje přímo komunikovat s lidmi, jimž jsme říkali čtenáři, posluchači nebo diváci, a využívat jejich vědomosti. Poptávka není po těch novinářích, kteří všechno vědí lépe, ale po těch, kteří komunikují a kladou otázky.
+Web představuje lepší infrastrukturu pro společenskou výměnu, než byla masová média 20. století: V případě pochybností je „Generace Wikipedie“ s to – ať už jako jednotlivci, nebo jako skupina – zhodnotit  důvěryhodnost zdroje a v případě pochybností vysledovat původ zprávy, dohledat jej, posoudit jej a vyhodnotit. Uživatelé nebudou brát vážně novináře, kteří to opomíjejí a nejsou ochotni respektovat tyto dovednosti. A právem. Internet umožňuje přímo komunikovat s lidmi, jimž jsme říkali čtenáři, posluchači nebo diváci, a využívat jejich vědomosti. Poptávka není po těch novinářích, kteří všechno vědí lépe, ale po těch, kteří komunikují a kladou otázky.
 
 *Internet, 7. 9. 2009*
 
@@ -115,30 +116,12 @@ Web představuje prostředí společenské směny na vyšší úrovni, než byla
 * [Peter Stawowy]
 * [Fiete Stegers]
 
-*Z němčiny a angličtiny přeložil [Martin Kopta] dne 9. září 2009.*
+*Z němčiny a angličtiny přeložil [Martin Kopta] dne 9. září 2009. (Drobné úpravy překladu 19. srpna 2024.)*
 
 ***
 
 <small><small>License: [2009 CC-BY](https://creativecommons.org/licenses/by/3.0/)</small></small>
 
-[Deutsche Fassung]: https://web.archive.org/web/20160327032747/http://www.internet-manifest.de/
-[English Version]: https://web.archive.org/web/20160304041758/http://www.internet-manifesto.org/
-[Version française]: http://owni.fr/2009/09/09/un-manifeste-internet-traduction/
-[Versión en español]: https://web.archive.org/web/20150329134619/http://uberblogged.com/periodismo/como-funciona-el-periodismo-hoy-manifiesto/
-[Versione in italiano]: http://mediablog.corriere.it/2009/09/il_giornalismo_ai_tempi_di_int.html
-[Versão em português]: https://web.archive.org/web/20100331093457/http://manifesto-internet.org/
-[Česká verze]: https://web.archive.org/web/20240522022356/www.internet-manifest.cz/
-[Srpsko-Hrvatski]: https://web.archive.org/web/20100728215931/www.blogowski.eu/2009/09/15/internet-manifest/
-[Türk Versiyon]: https://web.archive.org/web/20090922172219/blog.akgul.web.tr/%3Fp=30
-[Ελληνική έκδοση]: https://web.archive.org/web/20091228041808/www.news247.gr/a/5!101128
-[Русская версия]: https://web.archive.org/web/20090912095817/journalism.com.ua/archives/359
-[Versiunea in limba romana]: http://economie.hotnews.ro/stiri-media_publicitate-6119844-moartea-ziaristului-atotstiutor-aparut-manifestul-internetului-17-puncte.htm
-[日本語版]: http://peer2peer.blog79.fc2.com/blog-entry-1552.html
-[한국어 버젼]: http://capcold.net/blog/4629
-[ฉบับภาษาไทย]: https://web.archive.org/web/20090915231932/www.fringer.org/%3Fp=446
-[النسخة العربية 1]: https://web.archive.org/web/20090914000800/www.al-khabar.info/%D8%A8%D9%80%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%80%D8%AA%D9%80%D8%B1%D9%86%D9%80%D8%AA-%D9%83%D9%80%D9%8A%D9%81-%D8%AA%D9%80%D8%B4%D9%80%D8%AA%D9%80%D8%BA%D9%84-%D8%A7%D9%84%D8%B5%D9%91%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B3%D8%A8%D8%B9%D8%A9-%D8%B9%D8%B4%D8%B1-%D8%A5%D8%AB%D9%80%D8%A8%D8%A7%D8%AA%D8%A7_a7842.html
-[النسخة العربية 2]: http://owni.fr/2009/09/12/%D8%A8%D9%80%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%80%D8%AA%D9%80%D8%B1%D9%86%D9%80%D9%8A%D8%AA-un-manifeste-internet/
-[فارسی]: [http://muvi.ir/?page_id=121](https://web.archive.org/web/20091022160905/muvi.ir/%3Fpage_id=121)
 [1.]: #art-1
 [2.]: #art-2
 [3.]: #art-3
@@ -174,6 +157,24 @@ Web představuje prostředí společenské směny na vyšší úrovni, než byla
 [Peter Stawowy]: https://www.xing.com/profile/Peter_Stawowy "Peter Stawowy"
 [Fiete Stegers]: https://www.netzjournalismus.de/ "Fiete Stegers"
 [Martin Kopta]: https://martinkopta.cz/ "Martin Kopta"
+[Deutsche Fassung]: https://web.archive.org/web/20160327032747/http://www.internet-manifest.de/
+[English Version]: https://web.archive.org/web/20160304041758/http://www.internet-manifesto.org/
+[Version française]: http://owni.fr/2009/09/09/un-manifeste-internet-traduction/
+[Versión en español]: https://web.archive.org/web/20150329134619/http://uberblogged.com/periodismo/como-funciona-el-periodismo-hoy-manifiesto/
+[Versione in italiano]: http://mediablog.corriere.it/2009/09/il_giornalismo_ai_tempi_di_int.html
+[Versão em português]: https://web.archive.org/web/20100331093457/http://manifesto-internet.org/
+[Česká verze]: https://web.archive.org/web/20240522022356/www.internet-manifest.cz/
+[Srpsko-Hrvatski]: https://web.archive.org/web/20100728215931/www.blogowski.eu/2009/09/15/internet-manifest/
+[Türk Versiyon]: https://web.archive.org/web/20090922172219/blog.akgul.web.tr/%3Fp=30
+[Ελληνική έκδοση]: https://web.archive.org/web/20091228041808/www.news247.gr/a/5!101128
+[Русская версия]: https://web.archive.org/web/20090912095817/journalism.com.ua/archives/359
+[Versiunea in limba romana]: http://economie.hotnews.ro/stiri-media_publicitate-6119844-moartea-ziaristului-atotstiutor-aparut-manifestul-internetului-17-puncte.htm
+[日本語版]: http://peer2peer.blog79.fc2.com/blog-entry-1552.html
+[한국어 버젼]: http://capcold.net/blog/4629
+[ฉบับภาษาไทย]: https://web.archive.org/web/20090915231932/www.fringer.org/%3Fp=446
+[فارسی]: https://web.archive.org/web/20091022160905/muvi.ir/%3Fpage_id=121
+[النسخة العربية 1]: https://web.archive.org/web/20090914000800/www.al-khabar.info/%D8%A8%D9%80%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%80%D8%AA%D9%80%D8%B1%D9%86%D9%80%D8%AA-%D9%83%D9%80%D9%8A%D9%81-%D8%AA%D9%80%D8%B4%D9%80%D8%AA%D9%80%D8%BA%D9%84-%D8%A7%D9%84%D8%B5%D9%91%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%B3%D8%A8%D8%B9%D8%A9-%D8%B9%D8%B4%D8%B1-%D8%A5%D8%AB%D9%80%D8%A8%D8%A7%D8%AA%D8%A7_a7842.html
+[النسخة العربية 2]: http://owni.fr/2009/09/12/%D8%A8%D9%80%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%80%D8%AA%D9%80%D8%B1%D9%86%D9%80%D9%8A%D8%AA-un-manifeste-internet/
 
 <style>
 	.markdown-body { font-family: Georgia, "Times New Roman", Times, serif; }
